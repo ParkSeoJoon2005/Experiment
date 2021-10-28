@@ -1,13 +1,7 @@
 
-<h1 align="center"> <b>🔥 Hexzy 🙈</b>
-
-<h4 align="center">A Powerful, Smart And Advance  Group Manager Bot On Telegram <br> ... Written with AioGram , Pyrogram , Telethon and Python  ...</h4>
-
-### Fork & Give Me Star ⭐️ ⭐️ ⭐️ ⭐️ 
-# 🤩🤩🤩
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-<p align="center"><a href="https://t.me/HitechRocket"><img src="https://telegra.ph/file/b41dfb16ec665a841f884.png" width="800"></a></p>
+
 
 ### Self-hosting  (Vps or Statics Desktop)
 ```sh
